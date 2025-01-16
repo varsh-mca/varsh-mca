@@ -7,7 +7,7 @@ Hi there! 👋 I'm Varshini<br>🎓 I'm currently pursuing my MCA at Gobi Arts a
 ## Connect through:
 Email: varshini12cs@gmail.com
 
-LinkedIn:(https://linkedin.com/in/Varshini-Selvan) 
+LinkedIn:(www.linkedin.com/in/varshini-selvan) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
