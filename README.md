@@ -42,12 +42,12 @@ Hi there! 👋 I'm **Varshini Selvan**
 ---
 
 # 🚀 Featured Projects:
-## 🏫 College Management System
+## 🏫 Co-curricular Forum Selection 
 **Technologies:** PHP, HTML, CSS, MySQL  
 **Impact:** Streamlined college operations and improved administrative efficiency  
 **Features:** Student management, course tracking, administrative dashboard
 
-## 📊 UG Final Year Project
+## 📊 Event Schedular Analysis
 **Technologies:** HTML, PHP, CSS, MySQL  
 **Description:** [Add brief description of your UG project]  
 **Role:** Full-stack developer and database designer
