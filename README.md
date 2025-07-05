@@ -44,13 +44,13 @@ Hi there! 👋 I'm **Varshini Selvan**
 # 🚀 Featured Projects:
 ## 🏫 Co-curricular Forum Selection 
 **Technologies:** PHP, HTML, CSS, MySQL  
-**Impact:** Streamlined college operations and improved administrative efficiency  
-**Features:** Student management, course tracking, administrative dashboard
+**Impact:** Streamlined for co-curricular forum operations and improved administrative efficiency  
+**Features:** Student management, co-curricular forum updates, administrative dashboard
 
 ## 📊 Event Schedular Analysis
 **Technologies:** HTML, PHP, CSS, MySQL  
-**Description:** [Add brief description of your UG project]  
-**Role:** Full-stack developer and database designer
+**Description:** Created for maintaining club records and event details.
+**Role:** Front-end designer and database designer
 
 ---
 
